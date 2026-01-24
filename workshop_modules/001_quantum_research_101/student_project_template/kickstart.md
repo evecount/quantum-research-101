@@ -49,3 +49,20 @@ To ensure consistency and facilitate review, please adhere to the following subm
 *   **Requirements**: Your submission should include a brief (200-300 word) abstract summarizing your project, its key findings, and contributions. This abstract, along with your project name and logo, will be used for the showcase.
 
 We look forward to seeing your creative and impactful quantum research projects!
+
+
+### Architectural Clarification: Project Firebase vs. Showcase Firebase
+
+To ensure both project independence and centralized discoverability, we employ a clear architectural distinction regarding Firebase instances:
+
+1.  **Individual Student Project Firebase Instances**: Each student or project team will be responsible for setting up and managing their own dedicated Firebase project (e.g., `my-project-firebase-instance`). This instance will house all the data, authentication, and backend logic specific to their quantum research project. This approach grants full control and ownership over their project's data and infrastructure.
+
+2.  **Central Workshop Showcase Firebase Instance**: For the purpose of showcasing successful projects on `evecount.com/research`, a separate, central Firebase instance (e.g., `workshop-showcase-firebase-instance`) will be maintained and managed by the workshop organizers. Students will submit only specific, curated metadata about their projects to this central instance. This metadata will typically include:
+    *   Project Title
+    *   Brief Abstract (200-300 words)
+    *   Project Logo
+    *   Links to the GitHub repository, deployed application (if any), or published research.
+
+This architectural separation ensures that:
+*   **Student Project Independence**: Students have complete autonomy over their project's data and backend, aligning with the spirit of individual research and development.
+*   **Centralized Project Discovery and Display**: Project summaries and metadata are uniformly presented and easily accessible through `evecount.com/research`, fostering a community of shared knowledge and achievements without compromising the integrity or privacy of individual student projects.
