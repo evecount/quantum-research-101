@@ -48,3 +48,5 @@ This project guides you through building your first Firebase application from sc
 *   **Document Your Journey**: Use comments in your code/notebooks, or even a simple `NOTES.md` file, to document your thought process, challenges encountered, and how AI helped you overcome them. This is valuable for your learning and for showcasing your AI collaboration skills.
 
 Good luck with your first Firebase project!
+
+    *   **Recommendation for initial setup**: For simplicity and to avoid getting stuck on complex permissions, consider enabling **Anonymous Authentication** first. This allows users to access your app temporarily without providing credentials, letting you focus on data modeling and operations before delving into advanced user management. You can always add other authentication methods later.
