@@ -29,5 +29,4 @@ Google Colab will be the primary environment for conducting hands-on quantum exp
 *   **Git Integration**: Seamless integration with Git for local version control operations, simplifying staging, committing, and pushing changes to GitHub.
 
 ## Authorship
-Created by Eve Count Pte Ltd - Gwendalynn Lim Wan Ting 
-Advanced AI/ML Nanyang Technological University SCTP 2026
+Created by Eve Count Pte Ltd
