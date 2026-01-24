@@ -38,3 +38,17 @@ Based on an abstract of a relevant quantum computing paper (which you will selec
 
 ---
 Created by Eve Count Pte Ltd
+
+
+### Why an Upload Function is Essential
+Every robust application, especially in research, benefits significantly from a well-designed data upload function. For this workshop, implementing such a function is a crucial learning objective, offering insights into:
+
+*   **Data Labeling**: Understanding the importance of clear, consistent, and semantically rich data labels for search, retrieval, and analysis.
+*   **Schematics & Data Structure**: Reinforcing the concepts of database schema design, including collections, documents, and nested data structures, as defined in your Firebase plan.
+*   **Handling Various File Types**: Preparing for real-world scenarios where data might come in different formats (e.g., CSV, JSON, images, measurement files) and how to parse and integrate them.
+*   **Data Normalization**: Learning to structure data efficiently to reduce redundancy and improve data integrity, directly applying principles like foreign keys.
+*   **Foreign Keys & Relationships**: Gaining practical experience in establishing and managing relationships between different data entities within Firebase, mirroring relational database concepts.
+*   **Making Datasets Useful**: The process of uploading data often involves transformation and validation, which are vital steps in making raw data accessible and usable for analysis or intelligent applications.
+*   **Key Conventions for Quantum Systems**: Adhering to established naming conventions and data formats specific to quantum computing (e.g., Qiskit result formats, quantum state representations) to ensure interoperability and standardization.
+
+To facilitate standardization, consider providing primary measurements from well-known quantum datasets (e.g., qubit measurements, entanglement fidelities) as examples. This will help define common field naming conventions (e.g., `qubit_id`, `measurement_result`, `fidelity_value`) that students can adopt in their own Firebase designs.
