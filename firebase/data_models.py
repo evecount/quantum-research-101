@@ -1,0 +1,2 @@
+class FirebaseDataModels:
+    pass
