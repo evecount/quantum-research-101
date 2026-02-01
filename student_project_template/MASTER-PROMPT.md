@@ -1,5 +1,5 @@
 
-# MASTER PROMPT: Quantum Research Project Design
+# Quantum Research Project Design
 
 ## Project Goal
 Design a Firebase-backed application to support a quantum research project. Your application should be capable of:
