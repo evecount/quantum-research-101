@@ -32,7 +32,7 @@ In this workshop, you pair with an **AI Co-Founder** (LLM of your choice) to bui
 
 Created by **Eve Count Pte Ltd** & **Antigravity**.
 
-* **Vision:** Gwendalynn
+* **Vision:** Gwendalynn Lim 
 * **Architecture:** Antigravity (Google DeepMind)
 
 ---
